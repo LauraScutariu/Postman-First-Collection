@@ -11,4 +11,4 @@ A status code 200 (or any status like 2XX) indicates that the request was succes
 
 📚 - Resources
 
-[https://developer.spotify.com/documentation/web-api/concepts/scopes#user-follow-read](Spotify API documentation)
+[Spotify API documentation](https://developer.spotify.com/documentation/web-api/concepts/scopes#user-follow-read)
