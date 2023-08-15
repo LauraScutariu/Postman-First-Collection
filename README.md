@@ -36,4 +36,4 @@ The HTTP response message will contain:
 - Headers
 - Body
 
-[](Here) you will find tests run in Postman in the API documentation presented previously .Enjoy !
+[](Here) you will find tests run in Postman in the API documentation presented previously. Enjoy !
