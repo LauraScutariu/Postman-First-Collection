@@ -30,6 +30,7 @@ The HTTP request message will contain:
 - Request method (GET, POST, PUT, ...)
 - Headers (User-Agent: Postman)
 - Body
+  
 The HTTP response message will contain:
 - Status code (200, 404, 500, ...)
 - Headers
