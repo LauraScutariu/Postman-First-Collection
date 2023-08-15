@@ -35,3 +35,5 @@ The HTTP response message will contain:
 - Status code (200, 404, 500, ...)
 - Headers
 - Body
+
+[](Here) you will find tests run in Postman in the API documentation presented previously .Enjoy !
