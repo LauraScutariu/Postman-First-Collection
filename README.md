@@ -27,10 +27,10 @@ From our point of view HTTP and HTTPS are the same.
 
 The HTTP request message will contain:
 - URL (address)
-Request method (GET, POST, PUT, ...)
-Headers (User-Agent: Postman)
-Body
+- Request method (GET, POST, PUT, ...)
+- Headers (User-Agent: Postman)
+- Body
 The HTTP response message will contain:
-Status code (200, 404, 500, ...)
-Headers
-Body
+- Status code (200, 404, 500, ...)
+- Headers
+- Body
