@@ -36,4 +36,4 @@ The HTTP response message will contain:
 - Headers
 - Body
 
-[Here]() you will find tests run in Postman in the API documentation presented previously. Enjoy !
+[Here](https://github.com/LauraScutariu/Postman-Project/blob/678ed217fa27aacfaa8cef737b3309ff1a5932bf/Spotify-Postman) you will find tests run in Postman in the API documentation presented previously. Enjoy !
