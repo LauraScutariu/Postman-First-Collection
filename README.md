@@ -1,4 +1,15 @@
-# Postman-Project
+# API tetsing on Spotify APP Project
+
+Spotify Web API enables the creation of applications that can interact with Spotify's streaming service, such as retrieving content metadata, getting recommendations, creating and managing playlists, or controlling playback.
+
+The Spotify Web API provides a wide range of functionality for developers, including:
+
+- Retrieve data from your favourite artist,album or show ;
+- Search for Spotify content ;
+- Control and interact with the playback,play & resume ,Seek to a position or retrieve your queue ;
+- Manage your personal library,by creating a new playlist and adding your favourite tracks to it ;
+- Get recomandation based on the music you listen the most.
+  And much more! You can find a complete list of available endpoints in the API Reference. 
 
 What is Postman?
 
@@ -22,8 +33,6 @@ HTTPS stands for Secure Hypertext Transfer Protocol.
 HTTPS ensures that the connection is encrypted.
 
 All APIs should use HTTPS.
-
-From our point of view HTTP and HTTPS are the same.
 
 The HTTP request message will contain:
 - URL (address)
