@@ -36,4 +36,4 @@ The HTTP response message will contain:
 - Headers
 - Body
 
-[Here](https://github.com/LauraScutariu/Postman-Project/blob/678ed217fa27aacfaa8cef737b3309ff1a5932bf/Spotify-Postman) you will find one collection which run in Postman in the API documentation presented previously. Enjoy !
+[Here](https://github.com/LauraScutariu/Postman-Project/blob/c6b7fbd8c9aa006815edb81945279405397d3a41/Spotify-postman_collection.json) you will find one collection which run in Postman in the API documentation presented previously. Enjoy !
