@@ -1,4 +1,4 @@
-# API tetsing on Spotify APP Project
+# API teting on Spotify APP Project
 
 Spotify Web API enables the creation of applications that can interact with Spotify's streaming service, such as retrieving content metadata, getting recommendations, creating and managing playlists, or controlling playback.
 
