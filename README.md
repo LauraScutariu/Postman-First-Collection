@@ -31,4 +31,4 @@ A status code 200 (or any status like 2XX) indicates that the request was succes
 
 Enjoy !
 
-![API]([/assets/images/san-juan-mountains.jpg]https://github.com/LauraScutariu/Postman-First-Collection/blob/25db9b51bdb657059272751100accdac678c6a9c/Captura%CC%86%20de%20ecran%20din%202023-08-17%20la%2017.58.02.png "API")
+![API](/assets/images/san-juan-mountains.jpg]https://github.com/LauraScutariu/Postman-First-Collection/blob/25db9b51bdb657059272751100accdac678c6a9c/Captura%CC%86%20de%20ecran%20din%202023-08-17%20la%2017.58.02.png "API")
