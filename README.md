@@ -27,4 +27,4 @@ A status code 200 (or any status like 2XX) indicates that the request was succes
 [Spotify API documentation](https://developer.spotify.com/documentation/web-api/concepts/scopes#user-follow-read)
 
 
-[Here]([https://github.com/LauraScutariu/Postman-First-Collection/blob/cc21c517719352a3ca8d05c419698500d4c5e2a6/Spotify.postman_collection1.json) you will find one collection which run in Postman in the API documentation presented previously. Enjoy !
+[Here](https://github.com/LauraScutariu/Postman-First-Collection/blob/e10ffb4c3638d38d8fe4b743d47253de54ad8fa5/Spotify.postman_collection1.json) you will find one collection which run in Postman in the API documentation presented previously. Enjoy !
