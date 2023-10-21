@@ -2,7 +2,7 @@
 
 Spotify Web API enables the creation of applications that can interact with Spotify's streaming service, such as retrieving content metadata, getting recommendations, creating and managing playlists, or controlling playback.
 
-The Spotify Web API provides a wide range of functionality for developers, including:
+The Spotify Web API provides a wide range of functionality for developers, including :
 
 - Retrieve data from your favourite artist,album or show ;
 - Search for Spotify content ;
